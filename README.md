@@ -52,7 +52,10 @@ The dataset contains customer information from direct marketing campaigns conduc
 - Continuously monitor KPIs to improve marketing performance.
 
 ## 📷 Dashboard Preview
-(Add your dashboard screenshots here.)
+
+### Marketing Funnel & Conversion Performance Dashboard
+
+![Dashboard](Dashboard%20Screenshots/dashboard.png)
 
 ## 📁 Repository Structure
 ```
