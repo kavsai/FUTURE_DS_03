@@ -55,7 +55,7 @@ The dataset contains customer information from direct marketing campaigns conduc
 
 ### Marketing Funnel & Conversion Performance Dashboard
 
-![Dashboard](Dashboard%20Screenshots/dashboard.png)
+![Dashboard](Dashboard%20Screenshots/Screenshot%202026-07-03%20221706.png)
 
 ## 📁 Repository Structure
 ```
